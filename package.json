@@ -1,6 +1,6 @@
 {
   "name": "spdy",
-  "version": "1.16.9",
+  "version": "1.16.9-ll.1",
   "description": "Implementation of the SPDY protocol on node.js.",
   "license": "MIT",
   "keywords": [
@@ -8,12 +8,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/indutny/node-spdy.git"
+    "url": "git://github.com/haijin-yan/node-spdy.git"
   },
-  "homepage": "https://github.com/indutny/node-spdy",
+  "homepage": "https://github.com/haijin-yan/node-spdy",
   "bugs": {
     "email": "node-spdy+bugs@indutny.com",
-    "url": "https://github.com/indunty/node-spdy/issues"
+    "url": "https://github.com/haijin-yan/node-spdy/issues"
   },
   "author": "Fedor Indutny <fedor.indutny@gmail.com>",
   "contributors": [
